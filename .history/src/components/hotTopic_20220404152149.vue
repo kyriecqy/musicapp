@@ -1,0 +1,24 @@
+<template>
+  <div class="hotTopic">
+    <div class="nav">
+      热门话题
+    </div>
+    <div class="body">
+      <div class="left"></div>
+      <div class="right"></div>
+    </div>
+  </div>
+</template>
+
+<script>
+
+export default ({
+  
+})
+</script>
+
+<style scoped>
+.nav {
+  font-weight: 900;
+}
+</style>
